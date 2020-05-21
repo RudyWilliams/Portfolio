@@ -41,10 +41,10 @@ I also took on a large part of writing the production code. This gave me  experi
 
 Key Experiences:
 
- - S3, Elastic Beanstalk, SageMaker, EC2
- - Remote development (ssh through VSCode to develop on host)
+ - S3, Elastic Beanstalk, SageMaker, EC2, boto3
+ - remote development (ssh through VSCode to develop on host)
  - API development in Flask to serve ML
- - writing script to upload to S3
+ - wrote script to upload to S3
 
 The details of what I built at this internship cannot be disclosed. However, I can share my experiences in some ways. 
 
