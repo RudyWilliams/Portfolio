@@ -21,9 +21,9 @@ Key Experiences:
 
 In the final semester of my master's, the cohort was split into teams to bid on corporate projects. My team selected the computer vision project. The details will be high-level due to our corporate sponsor owning the IP of our algorithm. 
 
-The class followed the Lean LaunchPad methodology for startups (https://en.wikipedia.org/wiki/Lean_Launchpad). We definitely got the experience of working in an agile, start-up type environment. We all had to wear many hats, acting as marketers, researchers, and developers. We conducted interviews with our client(sponsor) to make sure the product we were making was on track and would deliver business gains--pivoting when needed. 
+The class followed the [Lean LaunchPad methodology ](https://en.wikipedia.org/wiki/Lean_Launchpad) for startups. We definitely got the experience of working in an agile, start-up type environment. We all had to wear many hats, acting as marketers, researchers, and developers. We conducted interviews with our client(sponsor) to make sure the product we were making was on track and would deliver business gains--pivoting when needed. 
 
-The technology for the product we were making exists (essentially what we were building: https://rossum.ai/) but we were determined to make our product from scratch. 
+The technology for the product we were making exists ([essentially what we were building](https://rossum.ai/)) but we were determined to make our product from scratch. 
 
 I took on the tasks of designing and writing the code for data engineering. The data engineering pipeline had to take PDF files and convert to tabular data sets. Deciding on the structure of those data sets was not trivial. There were a few times where the pressure was on and we could have failed to deliver a product. Getting the data sets into a useable structure for ML was one of those times. But we delivered.
 
