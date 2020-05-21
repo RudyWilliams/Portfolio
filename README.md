@@ -21,7 +21,6 @@ The application is not perfect. I know there are some things (especially in term
 Key Experiences:
 
 - designing/developing data engineering pipelines
-- writing software with embedded ML models
 - delivering under high pressure and at a fast pace (single semester to research and develop)
 - persisting an ensemble of models and using in production
 - automating python application with .bat file and Windows Task Scheduler
@@ -36,6 +35,30 @@ The technology for the product we were making exists ([essentially what we were 
 I took on the tasks of designing and writing the code for data engineering. The data engineering pipeline had to take PDF files and convert to tabular data sets. Deciding on the structure of those data sets was not trivial. There were a few times where the pressure was on and we could have failed to deliver a product. Getting the data sets into a useable structure for ML was one of those times. But we delivered.
 
 I also took on a large part of writing the production code. This gave me  experience in writing software with embedded ML models. 
+
+
+## Machine Learning Internship
+
+Key Experiences:
+
+ - S3, Elastic Beanstalk, SageMaker, EC2
+ - Remote development (ssh through VSCode to develop on host)
+ - API development in Flask to serve ML
+ - writing script to upload to S3
+
+The details of what I built at this internship cannot be disclosed. However, I can share my experiences in some ways. 
+
+This ended up being a two semester internship for me. For about the first half of the internship I was able to work with the project leader, a DevOps guy dabbling in ML, to become familiar with the project. It was an application in Natural Language Processing (NLP). The ML was familiar to me, but I was given valuable experience learning AWS resources. I was able to learn one-on-one with a DevOps professional how to use S3, SageMaker, EC2, and Elastic Beanstalk. 
+
+My DevOps mentor left not long into my second semester of the internship. This was a side project for the software company I was interning with so the team was only as big as it needed to be. We hired another intern from my UCF cohort, but I was the one with the most experience on the ML side of the project. I found myself in somewhat of a leadership position... as an intern.
+
+Really what that meant was more pressure, same pay. But I was in it for the experience anyway so I was excited to be the "go-to" for the ML stuff and the infrastructure stuff. I had the "know-how" for deploying to Elastic Beanstalk, so I was the one to write the API that served the ML model. There were times when the infrastructure stuff left me stumped, but I was able to learn on the fly and keep at anything that was blocking our way to the end product. I delivered, and my intern buddy delivered what was assigned to him. 
+
+I left the company after the second semester ended and passed on everything I knew to my intern buddy. I enjoyed my experience in the internship and learned material impossible to pick up in a classroom setting. 
+
+
+
+
 
 
 
