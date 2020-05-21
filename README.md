@@ -8,7 +8,7 @@ I saw a great opportunity to update how my organization was processing data and 
 The application is not perfect. I know there are some things (especially in terms of consistency, and I have not profiled the code) that need to be revisited, but I have not had the time to yet. It also would have been nice to have a senior developer to mentor me, but that is not this type of organization; if I was going to build this, it was going to be me, documentation, and google. Nonetheless,  the tests pass and the results are generated much faster than a human could return results.
 
 
-## Computer Vision Capstone Project
+## Capstone Project (Computer Vision x ML)
 
 Key Experiences:
 
