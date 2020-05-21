@@ -15,13 +15,13 @@ I saw a great opportunity to update how my organization was processing data and 
 
 The application is not perfect. I know there are some things (especially in terms of consistency, and I have not profiled the code) that need to be revisited, but I have not had the time to yet. It also would have been nice to have a senior developer to mentor me, but that is not this type of organization; if I was going to build this, it was going to be me, documentation, and google. Nonetheless,  the tests pass and the results are generated much faster than a human could return results.
 
-![Run all call](/images/call-to-run-all.png)
-![NonRes in all call](/images/NonRes_inallrun.png)
-![Util](/images/show-util.png)
-![shelter call 1](/images/shelter_snapshot_production_run.png)
-![shelter call 2](/images/shelter_snapshot_production_run-2.png)
-![shelter call 3](/images/shelter_snapshot_production_run-3.png)
-![jac in dev mode](/images/jac_in_dev_mode.png)
+![Run all call](https://github.com/RudyWilliams/Portfolio/blob/master/images/call-to-run-all.PNG)
+![NonRes in all call](https://github.com/RudyWilliams/Portfolio/blob/master/images/NonRes_inallrun.png)
+![Util](https://github.com/RudyWilliams/Portfolio/blob/master/images/show-util.png)
+![shelter call 1](https://github.com/RudyWilliams/Portfolio/blob/master/images/shelter_snapshot_production_run.png)
+![shelter call 2](https://github.com/RudyWilliams/Portfolio/blob/master/images/shelter_snapshot_production_run-2.png)
+![shelter call 3](https://github.com/RudyWilliams/Portfolio/blob/master/images/shelter_snapshot_production_run-3.png)
+![jac in dev mode](https://github.com/RudyWilliams/Portfolio/blob/master/images/jac_in_dev_mode.png)
 
 ## Capstone Project (Computer Vision x ML)
 
