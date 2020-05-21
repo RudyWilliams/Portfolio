@@ -1,6 +1,14 @@
 # Portfolio
 
 ## Snapshot Application
+
+Key Experiences:
+
+- CLI tool creation
+- complete application development needing considerations in design and functionality (modularity, OOP, testing)
+- extensive work with the pandas library
+- independent research and development
+
 In my current Data Analyst role I have to produce monthly reports that show a "snapshot" of the different programs we have at our non-profit. Prior to my arrival these reports were generated with a fair amount of human effort. A lot of the work was put on the analyst was to follow a recipe for getting the snapshot. A lot of the steps involved transforming data. The process involved using a combination of Access and Excel. I wrote this software to do the job of crunching the numbers and running the necessary analysis to save myself, and any future analysts, the headache of jumping between tools and having to manually make transformations. 
 
 I saw a great opportunity to update how my organization was processing data and gradually began to work on the application with whatever time I had between different projects. No ML or advanced analytics is used in the software but it gave me good experience with creating a full application rather than just a single Python script. I had to consider software design, useability, and testing. 
