@@ -55,13 +55,13 @@ Key Experiences:
 
 The details of what I built at this internship cannot be disclosed. However, I can share my experiences in some ways. 
 
-This ended up being a two semester internship for me. For about the first half of the internship I was able to work with the project leader, a DevOps guy dabbling in ML, to become familiar with the project. It was an application in Natural Language Processing (NLP). The ML was familiar to me, but I was given valuable experience learning AWS resources. I was able to learn one-on-one with a DevOps professional how to use S3, SageMaker, EC2, and Elastic Beanstalk. 
+This ended up being a two semester internship for me. For about the first half of the internship I was able to work with the project leader, a DevOps guy dabbling in ML, to become familiar with the project. It was an application in Natural Language Processing (NLP). The ML was familiar to me, but I was given valuable experience learning AWS resources. I was able to learn, one-on-one with a DevOps professional, how to use S3, SageMaker, EC2, and Elastic Beanstalk. 
 
-My DevOps mentor left not long into my second semester of the internship. This was a side project for the software company I was interning with so the team was only as big as it needed to be. We hired another intern from my UCF cohort, but I was the one with the most experience on the ML side of the project. I found myself in somewhat of a leadership position... as an intern.
+My DevOps mentor left not long into my second semester of the internship. This was a side project for the software company I was interning with, so the team was only as big as it needed to be. We hired another intern from my UCF cohort, but I was the one with the most experience on the ML side of the project. I found myself in somewhat of a leadership position... as an intern.
 
 Really what that meant was more pressure, same pay. But I was in it for the experience anyway so I was excited to be the "go-to" for the ML stuff and the infrastructure stuff. I had the "know-how" for deploying to Elastic Beanstalk, so I was the one to write the API that served the ML model. There were times when the infrastructure stuff left me stumped, but I was able to learn on the fly and keep at anything that was blocking our way to the end product. I delivered, and my intern buddy delivered what was assigned to him. 
 
-I left the company after the second semester ended and passed on everything I knew to my intern buddy. I enjoyed my experience in the internship and learned material impossible to pick up in a classroom setting. 
+I left the company after the second semester ended and passed on everything I knew to my intern buddy. I stay in contact to assist here and there whenever a problem may come up. I enjoyed my experience in the internship and learned material impossible to pick up in a classroom setting. 
 
 
 
