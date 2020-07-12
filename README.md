@@ -11,7 +11,7 @@ Key Experiences:
 
 In my current Data Analyst role, I must produce monthly reports that show a "snapshot" of the different programs we have at our non-profit. Prior to my arrival, these reports were generated with a fair amount of human effort. A lot of the work put on the prior analyst involved transforming data. The process involved using a combination of Access and Excel. I wrote this software to do the job of crunching the numbers and running the necessary analysis to save myself, and any future analysts, the headache of jumping between tools and having to manually make transformations. 
 
-I saw a great opportunity to update how my organization was processing data and gradually began to work on the application with the time I had between different projects. No ML or advanced analytics is used in the software, but it gave me good experience with creating a full application rather than just a single Python script. I had to consider software design, usability, and testing. 
+I saw a great opportunity to update how my organization was processing data and gradually began to work on the application with the time I had between different projects. No ML or advanced analytics is used in the software, but it gives me good experience with creating a full application rather than just a single Python script. I had to consider software design, usability, and testing. 
 
 The application is not perfect, but I am incrementally introducing new features and updating old features to better solve business needs. I am constantly learning more about software development as this project grows.
 
